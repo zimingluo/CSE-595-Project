@@ -157,3 +157,4 @@ if __name__ == "__main__":
         with open(f"{args.output_dir}_{args.num_n}_save_data.jsonl",'w') as f: # We also save a copy of the step score.
             for entry in gathered_save_data:
                 f.write(json.dumps(entry) + "\n")
+
