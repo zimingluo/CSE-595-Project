@@ -1,0 +1,16 @@
+prompt_sybolic; Method: zero-shot; Model: Llama-3.1-8B-Instruct; N_examples: 0; Role: teacher; Strategy: direct_command Accuracy: 60.90%
+prompt_sybolic; Method: cot_icl; Model: Llama-3.1-8B-Instruct; N_examples: 8; Role: expert; Strategy: calc_and_explanation Accuracy: 62.30%
+prompt_sybolic; Method: zero-shot; Model: Llama-3.1-8B-Instruct; N_examples: 0; Role: teacher; Strategy: step_by_step Accuracy: 64.70%
+prompt_sybolic; Method: cot_icl; Model: Llama-3.1-8B-Instruct; N_examples: 5; Role: expert; Strategy: calc_and_explanation Accuracy: 62.80%
+prompt_sybolic; Method: cot_icl; Model: Mistral-7B-Instruct-v0.3; N_examples: 8; Role: expert; Strategy: calc_and_explanation Accuracy: 34.30%
+prompt_sybolic; Method: zero-shot; Model: Llama-3.1-8B-Instruct; N_examples: 0; Role: teacher; Strategy: calc_and_explanation Accuracy: 65.10%
+prompt_sybolic; Method: zero-shot; Model: Mistral-7B-Instruct-v0.3; N_examples: 0; Role: teacher; Strategy: direct_command Accuracy: 37.00%
+prompt_sybolic; Method: cot_icl; Model: Mistral-7B-Instruct-v0.3; N_examples: 5; Role: expert; Strategy: calc_and_explanation Accuracy: 38.00%
+prompt_sybolic; Method: zero-shot; Model: Mistral-7B-Instruct-v0.3; N_examples: 0; Role: teacher; Strategy: step_by_step Accuracy: 39.70%
+prompt_sybolic; Method: zero-shot; Model: Mistral-7B-Instruct-v0.3; N_examples: 0; Role: teacher; Strategy: calc_and_explanation Accuracy: 37.80%
+prompt_sybolic_X; Method: cot_icl; Model: Mistral-7B-Instruct-v0.3; N_examples: 8; Role: expert; Strategy: calc_and_explanation Accuracy: 40.60%
+prompt_sybolic_X; Method: cot_icl; Model: Llama-3.1-8B-Instruct; N_examples: 8; Role: expert; Strategy: calc_and_explanation Accuracy: 63.90%
+prompt_sybolic_X; Method: cot_icl; Model: Llama-3.1-8B-Instruct; N_examples: 15; Role: expert; Strategy: calc_and_explanation Accuracy: 63.20%
+prompt_sybolic_X; Method: cot_icl; Model: Mistral-7B-Instruct-v0.3; N_examples: 5; Role: expert; Strategy: calc_and_explanation Accuracy: 41.40%
+prompt_sybolic_X; Method: cot_icl; Model: Llama-3.1-8B-Instruct; N_examples: 5; Role: expert; Strategy: calc_and_explanation Accuracy: 64.30%
+prompt_sybolic_X; Method: cot_icl; Model: Mistral-7B-Instruct-v0.3; N_examples: 15; Role: expert; Strategy: calc_and_explanation Accuracy: 44.20%
